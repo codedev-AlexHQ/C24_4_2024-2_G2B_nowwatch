@@ -1,4 +1,4 @@
-# noWatch - Aplicación de IPTV (En Desarrollo) - **Descripción General**
+# noWatch - Aplicación de IPTV - **Descripción General**
 
 La aplicación de **IPTV** llamada **noWatch** está en desarrollo y tiene como objetivo ofrecer una experiencia de entretenimiento completa, permitiendo a los usuarios acceder a una amplia variedad de canales de televisión en vivo, películas y programas de televisión directamente desde sus dispositivos. Nuestra aplicación se basa en la integración con fuentes de contenido abiertas y actualizadas para proporcionar una experiencia fluida y organizada.
 
